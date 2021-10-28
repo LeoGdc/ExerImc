@@ -105,7 +105,7 @@ public class tela {
 				conta.Estado();
 
 				lblresultadoImc.setText(Double.toString(conta.getResultado()));
-				lblresultadoEstado.setText(conta.getResultado());
+				lblresultadoEstado.setText(conta.getEstado());
 			}
 		});
 
