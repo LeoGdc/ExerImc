@@ -1,4 +1,4 @@
-package br.senai.sp.jandira;
+package br.senai.sp.jandira.ui;
 
 import java.awt.Button;
 import java.awt.Color;

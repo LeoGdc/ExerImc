@@ -1,6 +1,6 @@
 package br.senai.sp.jandira.model;
 
-import br.senai.sp.jandira.tela;
+import br.senai.sp.jandira.ui.tela;
 
 public class Conta {
 	private double resultado;

@@ -1,6 +1,6 @@
-package br.senai.sp.jandira.ui;
+package br.senai.sp.jandira;
 
-import br.senai.sp.jandira.tela;
+import br.senai.sp.jandira.ui.tela;
 
 public class app {
 
